@@ -1,0 +1,3 @@
+<h1>Nginx Kurulumu</h1>
+
+Yakında yazılacak...
